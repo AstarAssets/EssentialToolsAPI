@@ -33,7 +33,7 @@ var NDLoader = new function() {
         NDThemes.SetAvailableThemes([
             ["Dark Theme", "Dark"],
         ]);
-        NDThemes.ForceTheme("Dark Theme");
+        NDThemes.ForceTheme("Dark");
     };
     this.OnLoad_Content = function() {
         NDContentPage.Start();
