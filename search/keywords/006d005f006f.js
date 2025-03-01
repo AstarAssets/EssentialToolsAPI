@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_o",["Variable"],[["m_Objects",,[["AstarLibrary.ETGuard.Pile",,,,0,"File:Runtime/Guard/Base/Pile.cs:AstarLibrary.ETGuard.Pile.m_Objects","CSharpClass:AstarLibrary.ETGuard.Pile:m_Objects"]]]]);

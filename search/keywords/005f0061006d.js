@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_am",["Variable"],[["_AmbienceReflecion",,[["AstarLibrary.Core.Foundation.Quality",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Quality.cs:AstarLibrary.Core.Foundation.Quality._AmbienceReflecion","CSharpClass:AstarLibrary.Core.Foundation.Quality:_AmbienceReflecion"]]]]);

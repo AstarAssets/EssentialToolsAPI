@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.ByteVariable","ByteVariable");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.ByteVariable",[["C#","CSharp"]],[["Classes","Class"]],[[6655,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;ByteVariable"]]);

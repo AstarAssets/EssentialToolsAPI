@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ig",["Variable"],[["_ignoreDeselect",,[["AstarLibrary.AstarEditor.Customs.LabelCustomEditor",,,,0,"File:Editor/Customs/LabelCustomEditor.cs:AstarLibrary.AstarEditor.Customs.LabelCustomEditor._ignoreDeselect","CSharpClass:AstarLibrary.AstarEditor.Customs.LabelCustomEditor:_ignoreDeselect"]]]]);

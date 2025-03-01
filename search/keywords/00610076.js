@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("av",["Function"],[["AV",,[["AstarLibrary.Core.Extensions.IntExtensions",,,,0,"File:Runtime/Core/Extends/IntExtensions.cs:AstarLibrary.Core.Extensions.IntExtensions.AV","CSharpClass:AstarLibrary.Core.Extensions.IntExtensions:AV"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("avo",["Function"],[["AvoidDuplicateReferencesInArray",,[["AstarLibrary.AstarEditor.Drawers.RawReferenceDrawer",,,,0,"File:Editor/Drawers/RawReferenceDrawer.cs:AstarLibrary.AstarEditor.Drawers.RawReferenceDrawer.AvoidDuplicateReferencesInArray","CSharpClass:AstarLibrary.AstarEditor.Drawers.RawReferenceDrawer:AvoidDuplicateReferencesInArray"]]]]);

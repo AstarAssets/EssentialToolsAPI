@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("got",["Function"],[["GoToContent",,[["AstarLibrary.ETTome.Page",,,,0,"File:Runtime/Tome/Page.cs:AstarLibrary.ETTome.Page.GoToContent","CSharpClass:AstarLibrary.ETTome.Page:GoToContent"]]],["GoToPage",,[["AstarLibrary.ETTome.Tome",,,,0,"File:Runtime/Tome/Tome.cs:AstarLibrary.ETTome.Tome.GoToPage","CSharpClass:AstarLibrary.ETTome.Tome:GoToPage"]]]]);

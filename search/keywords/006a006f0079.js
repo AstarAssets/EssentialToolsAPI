@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("joy",["Property"],[["JoystickScheme",,[["AstarLibrary.ETTome.@Navigation",,,,0,"File:Runtime/Tome/Navigation/Navigation.cs:AstarLibrary.ETTome.@Navigation.JoystickScheme","CSharpClass:AstarLibrary.ETTome.@Navigation:JoystickScheme"]]]]);

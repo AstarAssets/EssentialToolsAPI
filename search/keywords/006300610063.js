@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cac",["Variable"],[["cachedObjects",,[["AstarLibrary.AstarEditor.Items.UniqueListItem",,,,0,"File:Editor/Items/UniqueListItem.cs:AstarLibrary.AstarEditor.Items.UniqueListItem.cachedObjects","CSharpClass:AstarLibrary.AstarEditor.Items.UniqueListItem:cachedObjects"]]]]);

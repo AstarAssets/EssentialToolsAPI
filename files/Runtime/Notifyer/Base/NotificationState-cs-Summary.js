@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Notifyer/Base/NotificationState.cs","NotificationState.cs");NDSummary.OnSummaryLoaded("File:Runtime/Notifyer/Base/NotificationState.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7990,0,1,"Types","AstarLibrary.ETNotifyer.Types"],[7991,0,0,"NotificationState","AstarLibrary.ETNotifyer.NotificationState"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.LongArrayVariable","LongArrayVariable");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.LongArrayVariable",[["C#","CSharp"]],[["Classes","Class"]],[[6582,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;LongArrayVariable"]]);

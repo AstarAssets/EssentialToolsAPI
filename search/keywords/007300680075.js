@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("shu",["Function"],[["Shuffle",,[["AstarLibrary.Core.Extensions.RandomExtension",,,,0,"File:Runtime/Core/Extends/RandomExtension.cs:AstarLibrary.Core.Extensions.RandomExtension.Shuffle","CSharpClass:AstarLibrary.Core.Extensions.RandomExtension:Shuffle"]]]]);

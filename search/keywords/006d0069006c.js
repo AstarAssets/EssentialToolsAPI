@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mil",["Property"],[["Milliseconds",,[["AstarLibrary.ETChrono.LongTimeInterval",,,,0,"File:Runtime/Chronos/Base/LongTimeInterval.cs:AstarLibrary.ETChrono.LongTimeInterval.Milliseconds","CSharpClass:AstarLibrary.ETChrono.LongTimeInterval:Milliseconds"]]]]);

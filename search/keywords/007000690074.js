@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pit",["Property"],[["Pitch",,[["AstarLibrary.Core.Foundation.Voice",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Sounds/Voice.cs:AstarLibrary.Core.Foundation.Voice.Pitch","CSharpClass:AstarLibrary.Core.Foundation.Voice:Pitch"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gfc",["Function"],[["GFC",,[["AstarLibrary.Core.Extensions.IntExtensions",,,,0,"File:Runtime/Core/Extends/IntExtensions.cs:AstarLibrary.Core.Extensions.IntExtensions.GFC","CSharpClass:AstarLibrary.Core.Extensions.IntExtensions:GFC"]]]]);

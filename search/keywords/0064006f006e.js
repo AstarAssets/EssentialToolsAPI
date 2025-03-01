@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("don",["Property"],[["DontRequire",,[["AstarLibrary.Core.Foundation.Speech",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Acessibility/Speech.cs:AstarLibrary.Core.Foundation.Speech.DontRequire","CSharpClass:AstarLibrary.Core.Foundation.Speech:DontRequire"]]]]);

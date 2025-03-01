@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/CameraType.cs","CameraType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/CameraType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4851,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4852,0,0,"CameraKind","AstarLibrary.Core.Enums.CameraKind"]]);

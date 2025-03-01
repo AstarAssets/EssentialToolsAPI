@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wat",["Function"],[["Watch",,[["AstarLibrary.Core.Framework.Warden",,,,0,"File:Runtime/Core/Base/Framework/Warden.cs:AstarLibrary.Core.Framework.Warden.Watch","CSharpClass:AstarLibrary.Core.Framework.Warden:Watch"]]]]);

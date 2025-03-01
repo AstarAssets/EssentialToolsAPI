@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("htm",["Constant"],[["HTML_TAG_PATTERN",,[["AstarLibrary.AstarEditor.Utility.StringUtility",,,,0,"File:Editor/Utility/StringUtility.cs:AstarLibrary.AstarEditor.Utility.StringUtility.HTML_TAG_PATTERN","CSharpClass:AstarLibrary.AstarEditor.Utility.StringUtility:HTML_TAG_PATTERN"]]]]);

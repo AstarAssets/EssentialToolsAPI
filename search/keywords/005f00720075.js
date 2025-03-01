@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ru",["Constant"],[["_runtimeAsmdefPath",,[["AstarLibrary.AstarEditor.Windows.EssentialToolsSetupWindow",,,,0,"File:Editor/Windows/Setup/EssentialToolsSetupWindow.cs:AstarLibrary.AstarEditor.Windows.EssentialToolsSetupWindow._runtimeAsmdefPath","CSharpClass:AstarLibrary.AstarEditor.Windows.EssentialToolsSetupWindow:_runtimeAsmdefPath"]]]]);

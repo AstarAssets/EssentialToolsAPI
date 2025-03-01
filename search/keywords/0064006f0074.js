@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dot",["Function"],[["DoTransition",,[["AstarLibrary.ETFade.Fade",,,,0,"File:Runtime/Fade/Fade.cs:AstarLibrary.ETFade.Fade.DoTransition","CSharpClass:AstarLibrary.ETFade.Fade:DoTransition"]]]]);

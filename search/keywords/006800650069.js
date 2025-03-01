@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hei",["Variable"],[["HeightRatios",,[["AstarLibrary.Core.Foundation.Screen",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Screen.cs:AstarLibrary.Core.Foundation.Screen.HeightRatios","CSharpClass:AstarLibrary.Core.Foundation.Screen:HeightRatios"]]]]);

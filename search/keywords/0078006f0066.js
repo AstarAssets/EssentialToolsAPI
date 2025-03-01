@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("xof",["Constant"],[["xOffset",,[["AstarLibrary.AstarEditor.Wizards.MatrixWizard",,,,0,"File:Editor/Wizards/MatrixWizard.cs:AstarLibrary.AstarEditor.Wizards.MatrixWizard.xOffset","CSharpClass:AstarLibrary.AstarEditor.Wizards.MatrixWizard:xOffset"]]]]);

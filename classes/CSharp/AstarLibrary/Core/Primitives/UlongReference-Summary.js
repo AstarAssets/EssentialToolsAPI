@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.UlongReference","UlongReference");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.UlongReference",[["C#","CSharp"]],[["Classes","Class"]],[[5179,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;UlongReference"]]);

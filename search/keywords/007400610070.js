@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tap",["Property"],[["TapTime",,[["AstarLibrary.Core.Foundation.Touch",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Controls/Touch.cs:AstarLibrary.Core.Foundation.Touch.TapTime","CSharpClass:AstarLibrary.Core.Foundation.Touch:TapTime"]]]]);

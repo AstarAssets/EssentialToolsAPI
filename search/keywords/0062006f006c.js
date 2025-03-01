@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bol",["Variable"],[["Bold",,[["AstarLibrary.ETPlus.SegmentText",,,,0,"File:Runtime/Plus/Base/SegmentText.cs:AstarLibrary.ETPlus.SegmentText.Bold","CSharpClass:AstarLibrary.ETPlus.SegmentText:Bold"]]]]);

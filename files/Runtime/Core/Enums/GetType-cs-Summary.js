@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/GetType.cs","GetType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/GetType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4829,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4830,0,0,"GetType","AstarLibrary.Core.Enums.GetType"]]);

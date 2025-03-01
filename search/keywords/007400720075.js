@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tru",["Property"],[["TrueLabel",,[["AstarLibrary.Core.Attributes.BooleanToEnumAttribute",,,,0,"File:Runtime/Core/Attributes/BooleanToEnumAttribute.cs:AstarLibrary.Core.Attributes.BooleanToEnumAttribute.TrueLabel","CSharpClass:AstarLibrary.Core.Attributes.BooleanToEnumAttribute:TrueLabel"]]]]);

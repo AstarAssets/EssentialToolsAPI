@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sof",["Property"],[["SoftVegetation",,[["AstarLibrary.Core.Foundation.Quality",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Quality.cs:AstarLibrary.Core.Foundation.Quality.SoftVegetation","CSharpClass:AstarLibrary.Core.Foundation.Quality:SoftVegetation"]]]]);

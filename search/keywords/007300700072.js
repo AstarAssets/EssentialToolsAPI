@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spr",["Variable"],[["Sprites",,[["AstarLibrary.ETPlus.ImagePlus",,,,0,"File:Runtime/Plus/ImagePlus.cs:AstarLibrary.ETPlus.ImagePlus.Sprites","CSharpClass:AstarLibrary.ETPlus.ImagePlus:Sprites"]]]]);

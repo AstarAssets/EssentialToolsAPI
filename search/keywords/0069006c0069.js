@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ili",["Interface"],[["IListManager",,[["AstarLibrary.AstarEditor.Interfaces",,,,0,"File:Editor/Interfaces/IListManager.cs:AstarLibrary.AstarEditor.Interfaces.IListManager","CSharpClass:AstarLibrary.AstarEditor.Interfaces.IListManager"]]]]);

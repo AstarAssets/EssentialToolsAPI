@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dispatcher/Base/DispatcherType.cs","DispatcherType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dispatcher/Base/DispatcherType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7333,0,1,"Types","AstarLibrary.ETDispatcher.Types"],[7334,0,0,"DispatcherType","AstarLibrary.ETDispatcher.DispatcherType"]]);

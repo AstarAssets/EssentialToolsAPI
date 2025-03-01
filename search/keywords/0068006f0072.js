@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hor",["Enumeration"],[["HorizontalType",,[["AstarLibrary.Core.Enums",,,,0,"File:Runtime/Core/Enums/HorizontalType.cs:AstarLibrary.Core.Enums.HorizontalType"]]]]);

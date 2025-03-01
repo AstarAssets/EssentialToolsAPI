@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_x",["Variable"],[["_X",,[["AstarLibrary.AstarEditor.Customs.FlexCustomEditor",,,,0,"File:Editor/Customs/FlexCustomEditor.cs:AstarLibrary.AstarEditor.Customs.FlexCustomEditor._X","CSharpClass:AstarLibrary.AstarEditor.Customs.FlexCustomEditor:_X"]]]]);

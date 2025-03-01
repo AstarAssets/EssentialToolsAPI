@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Tome/Data/SelectType.cs","SelectType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Tome/Data/SelectType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8719,0,1,"Types","AstarLibrary.ETTome.Types"],[8720,0,0,"SelectType","AstarLibrary.ETTome.SelectType"]]);

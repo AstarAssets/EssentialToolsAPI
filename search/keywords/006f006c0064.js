@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("old",["Variable"],[["oldKey",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow.PlayerPrefsEntry",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow.PlayerPrefsEntry.oldKey","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow.PlayerPrefsEntry:oldKey"]]]]);

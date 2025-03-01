@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ich",["Interface"],[["IChronosAffectable",,[["AstarLibrary.ETChrono",,,,0,"File:Runtime/Chronos/Interfaces/IChronosAffectable.cs:AstarLibrary.ETChrono.IChronosAffectable","CSharpClass:AstarLibrary.ETChrono.IChronosAffectable"]]]]);

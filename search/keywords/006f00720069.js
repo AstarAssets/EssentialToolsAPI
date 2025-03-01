@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ori",["Property"],[["Original",,[["AstarLibrary.AstarEditor.Items.ResultItem",,,,0,"File:Editor/Items/ResultItem.cs:AstarLibrary.AstarEditor.Items.ResultItem.Original","CSharpClass:AstarLibrary.AstarEditor.Items.ResultItem:Original"]]]]);

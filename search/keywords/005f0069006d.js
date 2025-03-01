@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_im",["Variable"],[["_image",,[["AstarLibrary.ETPlus.TogglePlus",,,,0,"File:Runtime/Plus/TogglePlus.cs:AstarLibrary.ETPlus.TogglePlus._image","CSharpClass:AstarLibrary.ETPlus.TogglePlus:_image"]]]]);

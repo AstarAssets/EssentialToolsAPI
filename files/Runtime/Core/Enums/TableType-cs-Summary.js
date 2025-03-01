@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/TableType.cs","TableType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/TableType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4797,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4798,0,0,"TableType","AstarLibrary.Core.Enums.TableType"]]);

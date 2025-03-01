@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mas",["Class"],[["MasonWindow",,[["AstarLibrary.AstarEditor.Windows",,,,0,"File:Editor/Windows/Mason/MasonWindow.cs:AstarLibrary.AstarEditor.Windows.MasonWindow","CSharpClass:AstarLibrary.AstarEditor.Windows.MasonWindow"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Serial/Base/ReferenceMode.cs","ReferenceMode.cs");NDSummary.OnSummaryLoaded("File:Runtime/Serial/Base/ReferenceMode.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8300,0,1,"Types","AstarLibrary.ETSerial.Types"],[8301,0,0,"ReferenceMode","AstarLibrary.ETSerial.ReferenceMode"]]);

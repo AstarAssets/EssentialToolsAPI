@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/AxisType.cs","AxisType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/AxisType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4855,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4856,0,0,"AxisType","AstarLibrary.Core.Enums.AxisType"]]);

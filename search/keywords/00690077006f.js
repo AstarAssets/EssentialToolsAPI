@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iwo",["Interface"],[["IWorkerHandler",,[["AstarLibrary.Core.Interfaces",,,,0,"File:Runtime/Core/Interfaces/IWorkerHandler.cs:AstarLibrary.Core.Interfaces.IWorkerHandler","CSharpClass:AstarLibrary.Core.Interfaces.IWorkerHandler"]]]]);

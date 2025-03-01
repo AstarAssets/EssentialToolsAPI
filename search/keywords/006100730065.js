@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ase",["Function"],[["AsEnumerator",,[["AstarLibrary.Core.Extensions.AwaitExtensions",,,,0,"File:Runtime/Core/Extends/AwaitExtensions.cs:AstarLibrary.Core.Extensions.AwaitExtensions.AsEnumerator","CSharpClass:AstarLibrary.Core.Extensions.AwaitExtensions:AsEnumerator"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/DirectionType.cs","DirectionType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/DirectionType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4843,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4844,0,0,"DirectionType","AstarLibrary.Core.Enums.DirectionType"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Plus/Base/ToggleDirection.cs","ToggleDirection.cs");NDSummary.OnSummaryLoaded("File:Runtime/Plus/Base/ToggleDirection.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8036,0,1,"Types","AstarLibrary.ETPlus.Types"],[8037,0,0,"ToggleDirection","AstarLibrary.ETPlus.ToggleDirection"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("m_h",["Variable"],[["m_hours",,[["AstarLibrary.ETChrono.LongTimeInterval",,,,0,"File:Runtime/Chronos/Base/LongTimeInterval.cs:AstarLibrary.ETChrono.LongTimeInterval.m_hours","CSharpClass:AstarLibrary.ETChrono.LongTimeInterval:m_hours"]]]]);

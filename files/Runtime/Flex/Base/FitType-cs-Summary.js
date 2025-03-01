@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Flex/Base/FitType.cs","FitType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Flex/Base/FitType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7556,0,1,"Types","AstarLibrary.ETFlex.Types"],[7557,0,0,"FitType","AstarLibrary.ETFlex.FitType"]]);

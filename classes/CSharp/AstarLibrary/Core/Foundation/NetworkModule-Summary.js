@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Foundation.NetworkModule","NetworkModule");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Foundation.NetworkModule",[["C#","CSharp"]],[["Classes","Class"]],[[4206,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Foundation.</span>&#8203;NetworkModule"]]);

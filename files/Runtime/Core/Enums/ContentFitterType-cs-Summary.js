@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ContentFitterType.cs","ContentFitterType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ContentFitterType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4853,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4854,0,0,"ContentFitterType","AstarLibrary.Core.Enums.ContentFitterType"]]);

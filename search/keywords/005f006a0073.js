@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_js",["Variable"],[["_jsonSettings",,[["AstarLibrary.ETChrono.Chronos",,,,0,"File:Runtime/Chronos/Chronos.cs:AstarLibrary.ETChrono.Chronos._jsonSettings","CSharpClass:AstarLibrary.ETChrono.Chronos:_jsonSettings"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Tome/Data/AlignmentType.cs","AlignmentType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Tome/Data/AlignmentType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8741,0,1,"Types","AstarLibrary.ETTome.Types"],[8742,0,0,"AlignmentType","AstarLibrary.ETTome.AlignmentType"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("arc",["Class"],[["ArchitectWindow",,[["AstarLibrary.AstarEditor.Windows",,,,0,"File:Editor/Windows/Architect/ArchitectWindow.cs:AstarLibrary.AstarEditor.Windows.ArchitectWindow","CSharpClass:AstarLibrary.AstarEditor.Windows.ArchitectWindow"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ied",["Interface"],[["IEditorDrawer",,[["AstarLibrary.AstarEditor.Interfaces",,,,0,"File:Editor/Interfaces/IEditorDrawer.cs:AstarLibrary.AstarEditor.Interfaces.IEditorDrawer","CSharpClass:AstarLibrary.AstarEditor.Interfaces.IEditorDrawer"]]]]);

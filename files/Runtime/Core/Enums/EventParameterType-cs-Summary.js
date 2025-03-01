@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/EventParameterType.cs","EventParameterType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/EventParameterType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4841,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4842,0,0,"EventParameterType","AstarLibrary.Core.Enums.EventParameterType"]]);

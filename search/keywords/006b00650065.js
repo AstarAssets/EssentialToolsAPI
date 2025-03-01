@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("kee",["Class"],[["KeeperWindow",,[["AstarLibrary.AstarEditor.Windows",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow"]]]]);

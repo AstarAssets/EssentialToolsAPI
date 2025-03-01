@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Fade/Base/FadeType.cs","FadeType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Fade/Base/FadeType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7384,0,1,"Types","AstarLibrary.ETFade.Types"],[7385,0,0,"FadeType","AstarLibrary.ETFade.FadeType"]]);

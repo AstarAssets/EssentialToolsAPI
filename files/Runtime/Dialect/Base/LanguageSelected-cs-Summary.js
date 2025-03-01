@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dialect/Base/LanguageSelected.cs","LanguageSelected.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dialect/Base/LanguageSelected.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7247,0,1,"Types","AstarLibrary.ETDialect.Types"],[7248,0,0,"LanguageSelected","AstarLibrary.ETDialect.LanguageSelected"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uiu",["Class"],[["UIUtility",,[["AstarLibrary.AstarEditor.Utility",,,,0,"File:Editor/Utility/UIUtility.cs:AstarLibrary.AstarEditor.Utility.UIUtility","CSharpClass:AstarLibrary.AstarEditor.Utility.UIUtility"]]]]);

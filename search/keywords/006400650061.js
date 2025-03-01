@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dea",["Property"],[["DeadZone",,[["AstarLibrary.Core.Foundation.Gamepad",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Controls/Gamepad.cs:AstarLibrary.Core.Foundation.Gamepad.DeadZone","CSharpClass:AstarLibrary.Core.Foundation.Gamepad:DeadZone"]]]]);

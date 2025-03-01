@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/CreationType.cs","CreationType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/CreationType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4845,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4846,0,0,"CreationType","AstarLibrary.Core.Enums.CreationType"]]);

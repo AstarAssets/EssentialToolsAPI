@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Editor/Enums/LogType.cs","LogType.cs");NDSummary.OnSummaryLoaded("File:Editor/Enums/LogType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[1532,0,1,"Types","AstarLibrary.AstarEditor.Enums.Types"],[1533,0,0,"LogType","AstarLibrary.AstarEditor.Enums.LogType"]]);

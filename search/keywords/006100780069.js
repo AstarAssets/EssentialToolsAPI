@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("axi",["Variable","Enumeration"],[["Axis",,[["AstarLibrary.ETShift.ShiftLookAt",,,,0,"File:Runtime/Shift/Inheritance/ShiftLookAt.cs:AstarLibrary.ETShift.ShiftLookAt.Axis","CSharpClass:AstarLibrary.ETShift.ShiftLookAt:Axis"]]],["AxisType",,[["AstarLibrary.Core.Enums",,,,1,"File:Runtime/Core/Enums/AxisType.cs:AstarLibrary.Core.Enums.AxisType"]]]]);

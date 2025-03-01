@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/StatusType.cs","StatusType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/StatusType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4803,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4804,0,0,"StatusType","AstarLibrary.Core.Enums.StatusType"]]);

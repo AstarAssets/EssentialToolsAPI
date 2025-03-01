@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nop",["Variable"],[["noParamEvent",,[["AstarLibrary.Core.Serializables.SerializableScriptableEvent",,,,0,"File:Runtime/Core/Serializables/SerializableScriptableEvent.cs:AstarLibrary.Core.Serializables.SerializableScriptableEvent.noParamEvent","CSharpClass:AstarLibrary.Core.Serializables.SerializableScriptableEvent:noParamEvent"]]]]);

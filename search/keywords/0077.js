@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("w",["Variable"],[["w",,[["AstarLibrary.Core.Serializables.SerializableQuaternion",,,,0,"File:Runtime/Core/Serializables/SerializableQuaternion.cs:AstarLibrary.Core.Serializables.SerializableQuaternion.w","CSharpClass:AstarLibrary.Core.Serializables.SerializableQuaternion:w"]]]]);

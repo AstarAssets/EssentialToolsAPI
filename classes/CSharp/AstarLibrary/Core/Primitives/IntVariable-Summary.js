@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.IntVariable","IntVariable");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.IntVariable",[["C#","CSharp"]],[["Classes","Class"]],[[6583,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;IntVariable"]]);

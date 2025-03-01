@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isb",["Variable"],[["IsBackward",,[["AstarLibrary.ETChrono.Kairos",,,,0,"File:Runtime/Chronos/Base/Kairos.cs:AstarLibrary.ETChrono.Kairos.IsBackward","CSharpClass:AstarLibrary.ETChrono.Kairos:IsBackward"]]]]);

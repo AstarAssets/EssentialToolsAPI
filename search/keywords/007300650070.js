@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sep",["Function"],[["Separator",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow.Separator","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:Separator"]]]]);

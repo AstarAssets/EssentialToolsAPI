@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ila",["Interface"],[["ILabelActions",,[["AstarLibrary.ETTome.@Navigation",,,,0,"File:Runtime/Tome/Navigation/Navigation.cs:AstarLibrary.ETTome.@Navigation.ILabelActions","CSharpClass:AstarLibrary.ETTome.@Navigation.ILabelActions"]]]]);

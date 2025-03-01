@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Shift/Base/DirectionType.cs","DirectionType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Shift/Base/DirectionType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8389,0,1,"Types","AstarLibrary.ETShift.Types"],[8390,0,0,"DirectionType","AstarLibrary.ETShift.DirectionType"]]);

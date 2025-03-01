@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wei",["Variable"],[["Weight",,[["AstarLibrary.Core.Foundation.Inventory",,,,0,"File:Runtime/Core/Base/Foundation/Player/Inventory/Base/Inventory.cs:AstarLibrary.Core.Foundation.Inventory.Weight","CSharpClass:AstarLibrary.Core.Foundation.Inventory:Weight"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pai",["Variable"],[["Paint",,[["AstarLibrary.ETFade.Fade",,,,0,"File:Runtime/Fade/Fade.cs:AstarLibrary.ETFade.Fade.Paint","CSharpClass:AstarLibrary.ETFade.Fade:Paint"]]]]);

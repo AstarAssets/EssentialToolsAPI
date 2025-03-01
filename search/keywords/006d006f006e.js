@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mon",["Property"],[["Months",,[["AstarLibrary.ETChrono.LongTimeInterval",,,,0,"File:Runtime/Chronos/Base/LongTimeInterval.cs:AstarLibrary.ETChrono.LongTimeInterval.Months","CSharpClass:AstarLibrary.ETChrono.LongTimeInterval:Months"]]]]);

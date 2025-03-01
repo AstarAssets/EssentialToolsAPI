@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fow",["Function"],[["Foward",,[["AstarLibrary.ETShift.Shift",,,,0,"File:Runtime/Shift/Shift.cs:AstarLibrary.ETShift.Shift.Foward","CSharpClass:AstarLibrary.ETShift.Shift:Foward"]]]]);

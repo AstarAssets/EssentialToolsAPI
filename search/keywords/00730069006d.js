@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sim",["Property"],[["SimpleControls",,[["AstarLibrary.Core.Foundation.Motor",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Acessibility/Motor.cs:AstarLibrary.Core.Foundation.Motor.SimpleControls","CSharpClass:AstarLibrary.Core.Foundation.Motor:SimpleControls"]]]]);

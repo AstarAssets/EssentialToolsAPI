@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/UpdateType.cs","UpdateType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/UpdateType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4795,0,1,"Types","AstarLibrary.Types"],[4796,0,0,"UpdateType","AstarLibrary.UpdateType"]]);

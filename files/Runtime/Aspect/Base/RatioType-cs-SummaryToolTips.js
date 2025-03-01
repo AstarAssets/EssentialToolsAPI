@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Aspect/Base/RatioType.cs",{3486:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype3486\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> RatioType</div></div></div>"});

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Fade/Base/FadeType.cs",{7385:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype7385\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> FadeType</div></div></div>"});

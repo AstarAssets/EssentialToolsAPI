@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lay",["Class"],[["LayoutUtility",,[["AstarLibrary.AstarEditor.Utility",,,,0,"File:Editor/Utility/LayoutUtility.cs:AstarLibrary.AstarEditor.Utility.LayoutUtility","CSharpClass:AstarLibrary.AstarEditor.Utility.LayoutUtility"]]]]);

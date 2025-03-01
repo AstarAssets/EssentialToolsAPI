@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("job",["Function"],[["Job",,[["AstarLibrary.Core.Framework.Worker",,,,0,"File:Runtime/Core/Base/Framework/Worker.cs:AstarLibrary.Core.Framework.Worker.Job","CSharpClass:AstarLibrary.Core.Framework.Worker:Job"]]]]);

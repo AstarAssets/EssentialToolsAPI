@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("to",["Function"],[["To",,[["AstarLibrary.Core.Utilitaries.Utility.Cast",,,,0,"File:Runtime/Core/Utilitary/Utility.cs:AstarLibrary.Core.Utilitaries.Utility.Cast.To","CSharpClass:AstarLibrary.Core.Utilitaries.Utility.Cast:To"]]]]);

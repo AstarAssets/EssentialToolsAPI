@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Shift/Base/ShiftType.cs","ShiftType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Shift/Base/ShiftType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8372,0,1,"Types","AstarLibrary.ETShift.Types"],[8373,0,0,"ShiftType","AstarLibrary.ETShift.ShiftType"]]);

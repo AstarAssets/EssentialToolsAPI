@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("phy",["Class"],[["PhysicsModule",,[["AstarLibrary.Core.Foundation",,,,0,"File:Runtime/Core/Base/Foundation/Player/Physics/PhysicsModule.cs:AstarLibrary.Core.Foundation.PhysicsModule","CSharpClass:AstarLibrary.Core.Foundation.PhysicsModule"]]]]);

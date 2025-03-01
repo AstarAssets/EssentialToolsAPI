@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("toy",["Function"],[["ToYears",,[["AstarLibrary.ETChrono.LongTimeInterval",,,,0,"File:Runtime/Chronos/Base/LongTimeInterval.cs:AstarLibrary.ETChrono.LongTimeInterval.ToYears","CSharpClass:AstarLibrary.ETChrono.LongTimeInterval:ToYears"]]]]);

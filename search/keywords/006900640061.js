@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ida",["Interface"],[["IDataHandler",,[["AstarLibrary.ETGuard",,,,0,"File:Runtime/Guard/Interfaces/IDataHandler.cs:AstarLibrary.ETGuard.IDataHandler","CSharpClass:AstarLibrary.ETGuard.IDataHandler"]]]]);

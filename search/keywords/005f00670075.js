@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_gu",["Variable"],[["_guardian",,[["AstarLibrary.AstarEditor.Customs.GuardianCustomEditor",,,,0,"File:Editor/Customs/GuardianCustomEditor.cs:AstarLibrary.AstarEditor.Customs.GuardianCustomEditor._guardian","CSharpClass:AstarLibrary.AstarEditor.Customs.GuardianCustomEditor:_guardian"]]]]);

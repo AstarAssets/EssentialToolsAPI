@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ShapeType.cs","ShapeType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ShapeType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4805,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4806,0,0,"ShapeType","AstarLibrary.Core.Enums.ShapeType"]]);

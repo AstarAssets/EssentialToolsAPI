@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sti",["Class"],[["StickPage",,[["AstarLibrary.ETMerge",,,,0,"File:Runtime/Merge/Tome/StickPage.cs:AstarLibrary.ETMerge.StickPage","CSharpClass:AstarLibrary.ETMerge.StickPage"]]]]);

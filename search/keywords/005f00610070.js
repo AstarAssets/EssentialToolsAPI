@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ap",["Variable"],[["_applicationTime",,[["AstarLibrary.ETChrono.Chronos",,,,0,"File:Runtime/Chronos/Chronos.cs:AstarLibrary.ETChrono.Chronos._applicationTime","CSharpClass:AstarLibrary.ETChrono.Chronos:_applicationTime"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Chronos/Base/TimeEffect.cs","TimeEffect.cs");NDSummary.OnSummaryLoaded("File:Runtime/Chronos/Base/TimeEffect.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3559,0,1,"Types","AstarLibrary.ETChrono.Types"],[3560,0,0,"TimeEffect","AstarLibrary.ETChrono.TimeEffect"]]);

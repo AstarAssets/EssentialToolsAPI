@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mec",["Class"],[["Mechanic",,[["AstarLibrary.Core.Foundation",,,,0,"File:Runtime/Core/Base/Foundation/Mechanic/Mechanic.cs:AstarLibrary.Core.Foundation.Mechanic","CSharpClass:AstarLibrary.Core.Foundation.Mechanic"]]]]);

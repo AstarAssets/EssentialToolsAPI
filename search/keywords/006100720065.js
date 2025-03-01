@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("are",["Function"],[["AreNearlyEqual",,[["AstarLibrary.Core.Utilitaries.Utility.Lines",,,,0,"File:Runtime/Core/Utilitary/Utility.cs:AstarLibrary.Core.Utilitaries.Utility.Lines.AreNearlyEqual","CSharpClass:AstarLibrary.Core.Utilitaries.Utility.Lines:AreNearlyEqual"]]]]);

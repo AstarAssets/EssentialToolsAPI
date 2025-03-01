@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_du",["Variable"],[["_duration",,[["AstarLibrary.AstarEditor.Customs.FadeCustomEditor",,,,0,"File:Editor/Customs/FadeCustomEditor.cs:AstarLibrary.AstarEditor.Customs.FadeCustomEditor._duration","CSharpClass:AstarLibrary.AstarEditor.Customs.FadeCustomEditor:_duration"]]]]);

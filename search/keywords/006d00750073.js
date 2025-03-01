@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mus",["Property"],[["Music",,[["AstarLibrary.Core.Foundation.Volumes",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Sounds/Volumes.cs:AstarLibrary.Core.Foundation.Volumes.Music","CSharpClass:AstarLibrary.Core.Foundation.Volumes:Music"]]]]);

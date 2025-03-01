@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("meg",["Variable"],[["MegaEventList",,[["AstarLibrary.ETSubscriber.Subscriber",,,,0,"File:Runtime/Subscribe/Subscriber.cs:AstarLibrary.ETSubscriber.Subscriber.MegaEventList","CSharpClass:AstarLibrary.ETSubscriber.Subscriber:MegaEventList"]]]]);

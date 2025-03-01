@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.DecimalArrayReference","DecimalArrayReference");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.DecimalArrayReference",[["C#","CSharp"]],[["Classes","Class"]],[[5202,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;DecimalArrayReference"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("alg",["Function"],[["Algoritm",,[["AstarLibrary.Core.Foundation.Screen",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Screen.cs:AstarLibrary.Core.Foundation.Screen.Algoritm","CSharpClass:AstarLibrary.Core.Foundation.Screen:Algoritm"]]]]);

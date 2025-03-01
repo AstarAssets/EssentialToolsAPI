@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tic",["Variable"],[["Tick",,[["AstarLibrary.Core.Framework.Worker",,,,0,"File:Runtime/Core/Base/Framework/Worker.cs:AstarLibrary.Core.Framework.Worker.Tick","CSharpClass:AstarLibrary.Core.Framework.Worker:Tick"]]]]);

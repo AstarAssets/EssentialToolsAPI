@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("squ",["Constant"],[["Square",,[["AstarLibrary.ETAspect.RatioType",,,,0,"File:Runtime/Aspect/Base/RatioType.cs:AstarLibrary.ETAspect.RatioType.Square"],["AstarLibrary.ETAspect.AspectType","*&nbsp; Square",,"*square",0,"File:Runtime/Aspect/Base/AspectType.cs:AstarLibrary.ETAspect.AspectType.*Square"]]]]);

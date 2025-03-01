@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pow",["Variable"],[["Power",,[["AstarLibrary.ETShift.ShiftJump",,,,0,"File:Runtime/Shift/Inheritance/ShiftJump.cs:AstarLibrary.ETShift.ShiftJump.Power","CSharpClass:AstarLibrary.ETShift.ShiftJump:Power"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Framework.Manager","Manager");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Framework.Manager",[["C#","CSharp"]],[["Classes","Class"]],[[4740,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Framework.</span>&#8203;Manager"]]);

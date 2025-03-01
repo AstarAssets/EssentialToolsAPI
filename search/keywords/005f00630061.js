@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_ca",["Variable"],[["_cameraType",,[["AstarLibrary.ETAspect.Aspect",,,,0,"File:Runtime/Aspect/Aspect.cs:AstarLibrary.ETAspect.Aspect._cameraType","CSharpClass:AstarLibrary.ETAspect.Aspect:_cameraType"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("epo",["Class"],[["Epoch",,[["AstarLibrary.Core.Foundation",,,,0,"File:Runtime/Core/Base/Foundation/Mechanic/Level/Epoch.cs:AstarLibrary.Core.Foundation.Epoch","CSharpClass:AstarLibrary.Core.Foundation.Epoch"]]]]);

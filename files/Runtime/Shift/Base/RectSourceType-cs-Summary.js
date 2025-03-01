@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Shift/Base/RectSourceType.cs","RectSourceType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Shift/Base/RectSourceType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[8387,0,1,"Types","AstarLibrary.ETShift.Types"],[8388,0,0,"RectSourceType","AstarLibrary.ETShift.RectSourceType"]]);

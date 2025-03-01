@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Base/Framework/Frame.cs","Frame.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Base/Framework/Frame.cs",[["C#","CSharp"]],[["Classes","Class"]],[[4742,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Framework.</span>&#8203;Frame","AstarLibrary.Core.Framework.Frame"]]);

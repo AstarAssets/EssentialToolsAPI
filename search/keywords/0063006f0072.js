@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cor",["Class"],[["CoroutineExtensions",,[["AstarLibrary.Core.Extensions",,,,0,"File:Runtime/Core/Extends/CoroutineExtensions.cs:AstarLibrary.Core.Extensions.CoroutineExtensions","CSharpClass:AstarLibrary.Core.Extensions.CoroutineExtensions"]]]]);

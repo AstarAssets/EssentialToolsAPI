@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Guard/Enums/GuardType.cs","GuardType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Guard/Enums/GuardType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7592,0,1,"Types","AstarLibrary.ETGuard.Types"],[7593,0,0,"GuardType","AstarLibrary.ETGuard.GuardType"]]);

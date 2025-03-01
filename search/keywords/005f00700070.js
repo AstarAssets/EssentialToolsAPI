@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_pp",["Variable"],[["_ppeList",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow._ppeList","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:_ppeList"]]]]);

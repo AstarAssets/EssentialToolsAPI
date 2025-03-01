@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pos",["Variable","Enumeration"],[["Position",,[["AstarLibrary.ETAspect.Ratio",,,,0,"File:Runtime/Aspect/Base/Ratio.cs:AstarLibrary.ETAspect.Ratio.Position","CSharpClass:AstarLibrary.ETAspect.Ratio:Position"]]],["PositionType",,[["AstarLibrary.Core.Enums",,,,1,"File:Runtime/Core/Enums/PositionType.cs:AstarLibrary.Core.Enums.PositionType"]]]]);

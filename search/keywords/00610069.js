@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ai",["Property"],[["AI",,[["AstarLibrary.Core.Foundation.Dificult",,,,0,"File:Runtime/Core/Base/Foundation/Settings/GamePlay/Dificult.cs:AstarLibrary.Core.Foundation.Dificult.AI","CSharpClass:AstarLibrary.Core.Foundation.Dificult:AI"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.DecimalVariable","DecimalVariable");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.DecimalVariable",[["C#","CSharp"]],[["Classes","Class"]],[[6656,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;DecimalVariable"]]);

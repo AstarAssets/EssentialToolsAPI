@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iov",["Interface"],[["IOverseerHandler",,[["AstarLibrary.Core.Interfaces",,,,0,"File:Runtime/Core/Interfaces/IOverseerHandler.cs:AstarLibrary.Core.Interfaces.IOverseerHandler","CSharpClass:AstarLibrary.Core.Interfaces.IOverseerHandler"]]]]);

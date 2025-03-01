@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asc",["Function"],[["AsCoroutine",,[["AstarLibrary.Core.Extensions.AwaitExtensions",,,,0,"File:Runtime/Core/Extends/AwaitExtensions.cs:AstarLibrary.Core.Extensions.AwaitExtensions.AsCoroutine","CSharpClass:AstarLibrary.Core.Extensions.AwaitExtensions:AsCoroutine"]]]]);

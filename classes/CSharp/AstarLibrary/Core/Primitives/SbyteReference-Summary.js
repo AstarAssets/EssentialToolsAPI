@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.SbyteReference","SbyteReference");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.SbyteReference",[["C#","CSharp"]],[["Classes","Class"]],[[5186,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;SbyteReference"]]);

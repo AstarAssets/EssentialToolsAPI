@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("@la",["Property"],[["@Label",,[["AstarLibrary.ETTome.@Navigation",,,,0,"File:Runtime/Tome/Navigation/Navigation.cs:AstarLibrary.ETTome.@Navigation.@Label","CSharpClass:AstarLibrary.ETTome.@Navigation:@Label"]]]]);

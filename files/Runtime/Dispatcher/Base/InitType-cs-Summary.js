@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dispatcher/Base/InitType.cs","InitType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dispatcher/Base/InitType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7311,0,1,"Types","AstarLibrary.ETDispatcher.Types"],[7312,0,0,"InitType","AstarLibrary.ETDispatcher.InitType"]]);

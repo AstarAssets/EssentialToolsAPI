@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_mi",["Constant"],[["_minValue",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow._minValue","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:_minValue"]]]]);

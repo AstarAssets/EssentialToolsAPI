@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lar",["Constant"],[["largeSpace",,[["AstarLibrary.AstarEditor.Extesions.ToolbarExtender",,,,0,"File:Editor/Extensions/ToolbarExtender.cs:AstarLibrary.AstarEditor.Extesions.ToolbarExtender.largeSpace","CSharpClass:AstarLibrary.AstarEditor.Extesions.ToolbarExtender:largeSpace"]]]]);

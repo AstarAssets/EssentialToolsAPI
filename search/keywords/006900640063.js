@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("idc",["Variable"],[["idCounters",,[["AstarLibrary.Core.Utilitaries.Utility.Generated",,,,0,"File:Runtime/Core/Utilitary/Utility.cs:AstarLibrary.Core.Utilitaries.Utility.Generated.idCounters","CSharpClass:AstarLibrary.Core.Utilitaries.Utility.Generated:idCounters"]]]]);

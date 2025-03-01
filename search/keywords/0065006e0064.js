@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("end",["Variable"],[["ended",,[["AstarLibrary.AstarEditor.Wizards.FieldWizard",,,,0,"File:Editor/Wizards/FieldWizard.cs:AstarLibrary.AstarEditor.Wizards.FieldWizard.ended","CSharpClass:AstarLibrary.AstarEditor.Wizards.FieldWizard:ended"]]]]);

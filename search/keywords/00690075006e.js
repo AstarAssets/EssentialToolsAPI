@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("iun",["Interface"],[["IUnityObjectHandler",,[["AstarLibrary.ETGuard",,,,0,"File:Runtime/Guard/Interfaces/IUnityObjectHandler.cs:AstarLibrary.ETGuard.IUnityObjectHandler","CSharpClass:AstarLibrary.ETGuard.IUnityObjectHandler"]]]]);

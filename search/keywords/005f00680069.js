@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_hi",["Variable"],[["_hiddenSettings",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow._hiddenSettings","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:_hiddenSettings"]]]]);

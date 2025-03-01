@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ResourcesType.cs","ResourcesType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ResourcesType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4813,0,1,"Types","AstarLibrary.Types"],[4814,0,0,"ResourcesType","AstarLibrary.ResourcesType"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vic",["Property"],[["Victory",,[["AstarLibrary.Core.Foundation.Rule",,,,0,"File:Runtime/Core/Base/Foundation/Mechanic/Level/Rule.cs:AstarLibrary.Core.Foundation.Rule.Victory","CSharpClass:AstarLibrary.Core.Foundation.Rule:Victory"]]]]);

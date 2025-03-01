@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fan",["Variable"],[["FantasyTime",,[["AstarLibrary.ETChrono.Chronos",,,,0,"File:Runtime/Chronos/Chronos.cs:AstarLibrary.ETChrono.Chronos.FantasyTime","CSharpClass:AstarLibrary.ETChrono.Chronos:FantasyTime"]]]]);

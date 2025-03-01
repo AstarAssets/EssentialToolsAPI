@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("thr",["Property"],[["Thresthold",,[["AstarLibrary.Core.Foundation.Touch",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Controls/Touch.cs:AstarLibrary.Core.Foundation.Touch.Thresthold","CSharpClass:AstarLibrary.Core.Foundation.Touch:Thresthold"]]]]);

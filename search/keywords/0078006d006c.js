@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("xml",["Class"],[["XMLSerializer",,[["AstarLibrary.ETGuard",,,,0,"File:Runtime/Guard/Inheritance/Serializers/XMLSerializer.cs:AstarLibrary.ETGuard.XMLSerializer","CSharpClass:AstarLibrary.ETGuard.XMLSerializer"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dialect/Base/Lexicon.cs","Lexicon.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dialect/Base/Lexicon.cs",[["C#","CSharp"]],[["Classes","Class"]],[[7246,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;ETDialect.</span>&#8203;Lexicon","AstarLibrary.ETDialect.Lexicon"]]);

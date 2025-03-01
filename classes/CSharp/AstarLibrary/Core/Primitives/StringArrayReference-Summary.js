@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.StringArrayReference","StringArrayReference");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.StringArrayReference",[["C#","CSharp"]],[["Classes","Class"]],[[5185,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;StringArrayReference"]]);

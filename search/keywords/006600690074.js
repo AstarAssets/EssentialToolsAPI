@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fit",["Enumeration","Variable"],[["FitType",,[["AstarLibrary.ETFlex",,,,0,"File:Runtime/Flex/Base/FitType.cs:AstarLibrary.ETFlex.FitType"],["AstarLibrary.ETFlex.Flex",,,,1,"File:Runtime/Flex/Flex.cs:AstarLibrary.ETFlex.Flex.FitType","CSharpClass:AstarLibrary.ETFlex.Flex:FitType"]]]]);

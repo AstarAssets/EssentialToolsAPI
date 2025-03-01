@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nar",["Property"],[["Narrator",,[["AstarLibrary.Core.Foundation.Volumes",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Sounds/Volumes.cs:AstarLibrary.Core.Foundation.Volumes.Narrator","CSharpClass:AstarLibrary.Core.Foundation.Volumes:Narrator"]]]]);

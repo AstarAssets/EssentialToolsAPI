@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/FlowType.cs","FlowType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/FlowType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4831,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4832,0,0,"FlowType","AstarLibrary.Core.Enums.FlowType"]]);

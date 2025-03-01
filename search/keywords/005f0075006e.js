@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_un",["Variable"],[["_undoIcon",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow._undoIcon","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:_undoIcon"]]]]);

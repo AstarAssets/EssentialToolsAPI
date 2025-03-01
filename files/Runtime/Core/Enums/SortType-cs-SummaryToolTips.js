@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Core/Enums/SortType.cs",{4800:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype4800\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> SortType</div></div></div>"});

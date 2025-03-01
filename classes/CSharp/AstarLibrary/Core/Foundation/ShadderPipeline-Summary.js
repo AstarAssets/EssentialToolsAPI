@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Foundation.ShadderPipeline","ShadderPipeline");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Foundation.ShadderPipeline",[["C#","CSharp"]],[["Classes","Class"]],[[4036,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Foundation.</span>&#8203;ShadderPipeline"]]);

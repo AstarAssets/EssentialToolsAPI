@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("art",["Class"],[["ArtisanWindow",,[["AstarLibrary.AstarEditor.Windows",,,,0,"File:Editor/Windows/Developing/ArtisanWindow.cs:AstarLibrary.AstarEditor.Windows.ArtisanWindow","CSharpClass:AstarLibrary.AstarEditor.Windows.ArtisanWindow"]]]]);

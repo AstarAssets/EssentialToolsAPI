@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_po",["Variable"],[["_position",,[["AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer",,,,0,"File:Editor/PropertyDrawers/RatioPropertyDrawer.cs:AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer._position","CSharpClass:AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer:_position"]]]]);

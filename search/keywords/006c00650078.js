@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lex",["Class"],[["Lexicon",,[["AstarLibrary.ETDialect",,,,0,"File:Runtime/Dialect/Base/Lexicon.cs:AstarLibrary.ETDialect.Lexicon","CSharpClass:AstarLibrary.ETDialect.Lexicon"]]]]);

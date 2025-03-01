@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/VectorSelectType.cs","VectorSelectType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/VectorSelectType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4787,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4788,0,0,"VectorSelectType","AstarLibrary.Core.Enums.VectorSelectType"]]);

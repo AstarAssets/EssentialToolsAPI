@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.LongReference","LongReference");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.LongReference",[["C#","CSharp"]],[["Classes","Class"]],[[5191,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;LongReference"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lig",["Property"],[["LightPixelCount",,[["AstarLibrary.Core.Foundation.Quality",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Graphics/Quality.cs:AstarLibrary.Core.Foundation.Quality.LightPixelCount","CSharpClass:AstarLibrary.Core.Foundation.Quality:LightPixelCount"]]]]);

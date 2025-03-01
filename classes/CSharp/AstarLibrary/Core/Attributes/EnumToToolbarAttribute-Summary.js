@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Attributes.EnumToToolbarAttribute","EnumToToolbarAttribute");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Attributes.EnumToToolbarAttribute",[["C#","CSharp"]],[["Classes","Class"]],[[3943,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Attributes.</span>&#8203;EnumToToolbarAttribute"]]);

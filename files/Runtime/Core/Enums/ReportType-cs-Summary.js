@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ReportType.cs","ReportType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ReportType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4811,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4812,0,0,"ReportType","AstarLibrary.Core.Enums.ReportType"]]);

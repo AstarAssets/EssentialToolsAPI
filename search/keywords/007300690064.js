@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sid",["Enumeration"],[["SideType",,[["AstarLibrary.ETShift",,,,0,"File:Runtime/Shift/Base/SideType.cs:AstarLibrary.ETShift.SideType"]]]]);

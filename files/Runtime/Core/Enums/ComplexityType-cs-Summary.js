@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/ComplexityType.cs","ComplexityType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/ComplexityType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4847,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4848,0,0,"ComplexityType","AstarLibrary.Core.Enums.ComplexityType"]]);

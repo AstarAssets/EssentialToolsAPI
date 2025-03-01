@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("idr",["Interface"],[["IDropdownItem",,[["AstarLibrary.AstarEditor.Items",,,,0,"File:Editor/Items/IDropdownItem.cs:AstarLibrary.AstarEditor.Items.IDropdownItem","CSharpClass:AstarLibrary.AstarEditor.Items.IDropdownItem"]]]]);

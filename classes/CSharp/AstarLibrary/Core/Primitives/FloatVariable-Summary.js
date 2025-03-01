@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Primitives.FloatVariable","FloatVariable");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Primitives.FloatVariable",[["C#","CSharp"]],[["Classes","Class"]],[[6585,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Primitives.</span>&#8203;FloatVariable"]]);

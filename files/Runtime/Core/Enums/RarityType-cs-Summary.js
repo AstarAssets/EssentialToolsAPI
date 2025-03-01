@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/RarityType.cs","RarityType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/RarityType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4817,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4818,0,0,"RarityType","AstarLibrary.Core.Enums.RarityType"]]);

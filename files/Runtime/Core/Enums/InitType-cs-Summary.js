@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/InitType.cs","InitType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/InitType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4827,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4828,0,0,"InitType","AstarLibrary.Core.Enums.InitType"]]);

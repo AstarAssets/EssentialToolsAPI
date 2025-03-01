@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/OrderingType.cs","OrderingType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/OrderingType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4819,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4820,0,0,"OrderingType","AstarLibrary.Core.Enums.OrderingType"]]);

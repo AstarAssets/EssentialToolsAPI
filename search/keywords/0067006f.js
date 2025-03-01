@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("go",["Function"],[["Go",,[["AstarLibrary.ETTome.Tome",,,,0,"File:Runtime/Tome/Tome.cs:AstarLibrary.ETTome.Tome.Go","CSharpClass:AstarLibrary.ETTome.Tome:Go"]]]]);

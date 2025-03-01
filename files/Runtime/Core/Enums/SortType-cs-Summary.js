@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/SortType.cs","SortType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/SortType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4799,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4800,0,0,"SortType","AstarLibrary.Core.Enums.SortType"]]);

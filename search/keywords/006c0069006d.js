@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lim",["Property"],[["Limit",,[["AstarLibrary.Core.Foundation.Epoch",,,,0,"File:Runtime/Core/Base/Foundation/Mechanic/Level/Epoch.cs:AstarLibrary.Core.Foundation.Epoch.Limit","CSharpClass:AstarLibrary.Core.Foundation.Epoch:Limit"]]]]);

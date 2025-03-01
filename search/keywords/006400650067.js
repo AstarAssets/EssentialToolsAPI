@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("deg",["Variable"],[["Degree",,[["AstarLibrary.ETShift.ShiftCircle",,,,0,"File:Runtime/Shift/Inheritance/ShiftCirlcle.cs:AstarLibrary.ETShift.ShiftCircle.Degree","CSharpClass:AstarLibrary.ETShift.ShiftCircle:Degree"]]]]);

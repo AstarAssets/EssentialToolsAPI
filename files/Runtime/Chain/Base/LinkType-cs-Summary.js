@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Chain/Base/LinkType.cs","LinkType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Chain/Base/LinkType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[3523,0,1,"Types","AstarLibrary.ETChain.Types"],[3524,0,0,"LinkType","AstarLibrary.ETChain.LinkType"]]);

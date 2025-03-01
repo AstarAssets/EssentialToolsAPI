@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("a",["Variable"],[["a",,[["AstarLibrary.Core.Tools.Debug.Ruler",,,,0,"File:Runtime/Core/Utilitary/Ruler.cs:AstarLibrary.Core.Tools.Debug.Ruler.a","CSharpClass:AstarLibrary.Core.Tools.Debug.Ruler:a"]]]]);

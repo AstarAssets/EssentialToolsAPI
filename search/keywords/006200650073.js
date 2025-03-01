@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bes",["Property"],[["BestFriends",,[["AstarLibrary.Core.Foundation.Friends",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Social/Friends.cs:AstarLibrary.Core.Foundation.Friends.BestFriends","CSharpClass:AstarLibrary.Core.Foundation.Friends:BestFriends"]]]]);

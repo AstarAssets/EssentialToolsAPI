@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_br",["Constant"],[["_breakpoint",,[["AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer",,,,0,"File:Editor/PropertyDrawers/RatioPropertyDrawer.cs:AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer._breakpoint","CSharpClass:AstarLibrary.AstarEditor.Properties.RatioPropertyDrawer:_breakpoint"]]]]);

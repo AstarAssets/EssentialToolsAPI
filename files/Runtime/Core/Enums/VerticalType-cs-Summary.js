@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/VerticalType.cs","VerticalType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/VerticalType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4789,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4790,0,0,"VerticalType","AstarLibrary.Core.Enums.VerticalType"]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/PositionType.cs","PositionType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/PositionType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4823,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4824,0,0,"PositionType","AstarLibrary.Core.Enums.PositionType"]]);

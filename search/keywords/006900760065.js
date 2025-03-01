@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ive",["Interface"],[["IVerificationHandler",,[["AstarLibrary.ETPlus",,,,0,"File:Runtime/Plus/Interface/IVerificationHandler.cs:AstarLibrary.ETPlus.IVerificationHandler","CSharpClass:AstarLibrary.ETPlus.IVerificationHandler"]]]]);

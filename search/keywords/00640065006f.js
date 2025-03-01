@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("deo",["Function"],[["DeobfuscateValue",,[["AstarLibrary.Core.Primitives.SecString",,,,0,"File:Runtime/Core/Primitives/Security/Secs/SecString.cs:AstarLibrary.Core.Primitives.SecString.DeobfuscateValue","CSharpClass:AstarLibrary.Core.Primitives.SecString:DeobfuscateValue"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/SnapshotType.cs","SnapshotType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/SnapshotType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4807,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4808,0,0,"SnapshotType","AstarLibrary.Core.Enums.SnapshotType"]]);

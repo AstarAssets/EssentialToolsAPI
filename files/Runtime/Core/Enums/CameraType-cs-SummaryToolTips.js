@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Core/Enums/CameraType.cs",{4852:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype4852\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> CameraKind</div></div></div>"});

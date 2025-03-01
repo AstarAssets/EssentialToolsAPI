@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_tm",["Variable"],[["_tmpPlistFile",,[["AstarLibrary.AstarEditor.Windows.KeeperWindow",,,,0,"File:Editor/Windows/Developing/KeeperWindow.cs:AstarLibrary.AstarEditor.Windows.KeeperWindow._tmpPlistFile","CSharpClass:AstarLibrary.AstarEditor.Windows.KeeperWindow:_tmpPlistFile"]]]]);

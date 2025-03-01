@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:AstarLibrary.Core.Foundation.InputModule","InputModule");NDSummary.OnSummaryLoaded("CSharpClass:AstarLibrary.Core.Foundation.InputModule",[["C#","CSharp"]],[["Classes","Class"]],[[4150,0,0,"<span class=\"Qualifier\">AstarLibrary.&#8203;Core.&#8203;Foundation.</span>&#8203;InputModule"]]);

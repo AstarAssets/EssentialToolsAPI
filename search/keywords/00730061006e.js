@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("san",["Function"],[["SanitizeScriptName",,[["AstarLibrary.AstarEditor.Windows.ArchitectWindow.ScriptCreator",,,,0,"File:Editor/Windows/Architect/ArchitectWindow.cs:AstarLibrary.AstarEditor.Windows.ArchitectWindow.ScriptCreator.SanitizeScriptName","CSharpClass:AstarLibrary.AstarEditor.Windows.ArchitectWindow.ScriptCreator:SanitizeScriptName"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sum",["Variable"],[["SumHierarchy",,[["AstarLibrary.ETReuse.PoolGroup",,,,0,"File:Runtime/Reuse/Base/PoolGroup.cs:AstarLibrary.ETReuse.PoolGroup.SumHierarchy","CSharpClass:AstarLibrary.ETReuse.PoolGroup:SumHierarchy"]]]]);

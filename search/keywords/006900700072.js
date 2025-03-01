@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ipr",["Interface"],[["IPropertyHandler",,[["AstarLibrary.AstarEditor.Interfaces",,,,0,"File:Editor/Interfaces/IPropertyHandler.cs:AstarLibrary.AstarEditor.Interfaces.IPropertyHandler","CSharpClass:AstarLibrary.AstarEditor.Interfaces.IPropertyHandler"]]]]);

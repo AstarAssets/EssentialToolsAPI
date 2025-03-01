@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ita",["Variable"],[["Italic",,[["AstarLibrary.ETPlus.SegmentText",,,,0,"File:Runtime/Plus/Base/SegmentText.cs:AstarLibrary.ETPlus.SegmentText.Italic","CSharpClass:AstarLibrary.ETPlus.SegmentText:Italic"]]]]);

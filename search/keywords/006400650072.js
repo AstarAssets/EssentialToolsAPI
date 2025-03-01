@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("der",["Function"],[["DeriveKey",,[["AstarLibrary.Core.Primitives.SecObject",,,,0,"File:Runtime/Core/Primitives/Security/Secs/SecObject.cs:AstarLibrary.Core.Primitives.SecObject.DeriveKey","CSharpClass:AstarLibrary.Core.Primitives.SecObject:DeriveKey"]]]]);

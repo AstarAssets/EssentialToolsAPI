@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("xrs",["Property"],[["XRScheme",,[["AstarLibrary.ETTome.@Navigation",,,,0,"File:Runtime/Tome/Navigation/Navigation.cs:AstarLibrary.ETTome.@Navigation.XRScheme","CSharpClass:AstarLibrary.ETTome.@Navigation:XRScheme"]]]]);

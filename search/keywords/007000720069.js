@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pri",["Property"],[["Privates",,[["AstarLibrary.Core.Foundation.Chats",,,,0,"File:Runtime/Core/Base/Foundation/Settings/Social/Chats.cs:AstarLibrary.Core.Foundation.Chats.Privates","CSharpClass:AstarLibrary.Core.Foundation.Chats:Privates"]]]]);

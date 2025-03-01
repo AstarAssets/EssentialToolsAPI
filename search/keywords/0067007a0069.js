@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gzi",["Class"],[["GZipCompressor",,[["AstarLibrary.ETGuard",,,,0,"File:Runtime/Guard/Inheritance/Compressors/GZipCompressor.cs:AstarLibrary.ETGuard.GZipCompressor","CSharpClass:AstarLibrary.ETGuard.GZipCompressor"]]]]);

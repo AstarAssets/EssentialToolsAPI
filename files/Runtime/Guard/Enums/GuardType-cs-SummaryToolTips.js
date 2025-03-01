@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Guard/Enums/GuardType.cs",{7593:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype7593\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> GuardType</div></div></div>"});

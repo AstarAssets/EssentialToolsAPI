@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Core/Enums/RectSideType.cs","RectSideType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Core/Enums/RectSideType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[4821,0,1,"Types","AstarLibrary.Core.Enums.Types"],[4822,0,0,"RectSideType","AstarLibrary.Core.Enums.RectSideType"]]);

@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Aspect/Base/AspectType.cs",{3513:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype3513\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHMetadata\">[Serializable]</span></div><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> AspectType</div></div></div>"});

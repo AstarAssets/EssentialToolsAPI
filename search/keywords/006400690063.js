@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dic",["Class"],[["Dictionary",,[["AstarLibrary.Core.Serializables.SerializableDictionaryBase",,,,0,"File:Runtime/Core/Serializables/SerializableDictionary.cs:AstarLibrary.Core.Serializables.SerializableDictionaryBase.Dictionary","CSharpClass:AstarLibrary.Core.Serializables.SerializableDictionaryBase.Dictionary"]]]]);

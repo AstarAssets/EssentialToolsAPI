@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nes",["Variable"],[["NestedData",,[["AstarLibrary.ETGuard.Data",,,,0,"File:Runtime/Guard/Base/Data.cs:AstarLibrary.ETGuard.Data.NestedData","CSharpClass:AstarLibrary.ETGuard.Data:NestedData"]]]]);

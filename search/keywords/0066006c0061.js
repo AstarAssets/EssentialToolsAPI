@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fla",["Constant"],[["FLAGS_ALL",,[["AstarLibrary.AstarEditor.Extesions.SerializedPropertyExtensions",,,,0,"File:Editor/Extensions/SerializedPropertyExtensions.cs:AstarLibrary.AstarEditor.Extesions.SerializedPropertyExtensions.FLAGS_ALL","CSharpClass:AstarLibrary.AstarEditor.Extesions.SerializedPropertyExtensions:FLAGS_ALL"]]]]);

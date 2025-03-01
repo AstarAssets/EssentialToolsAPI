@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tal",["Constant"],[["Tall",,[["AstarLibrary.ETAspect.RatioType",,,,0,"File:Runtime/Aspect/Base/RatioType.cs:AstarLibrary.ETAspect.RatioType.Tall"],["AstarLibrary.ETAspect.AspectType","*&nbsp; Tall",,"*tall",0,"File:Runtime/Aspect/Base/AspectType.cs:AstarLibrary.ETAspect.AspectType.*Tall"]]]]);

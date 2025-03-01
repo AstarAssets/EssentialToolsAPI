@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Runtime/Serial/Base/ReferenceMode.cs",{8301:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype8301\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> ReferenceMode</div></div></div>"});

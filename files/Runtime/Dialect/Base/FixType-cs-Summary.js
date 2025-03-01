@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Runtime/Dialect/Base/FixType.cs","FixType.cs");NDSummary.OnSummaryLoaded("File:Runtime/Dialect/Base/FixType.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[7290,0,1,"Types","AstarLibrary.ETDialect.Types"],[7291,0,0,"FixType","AstarLibrary.ETDialect.FixType"]]);
