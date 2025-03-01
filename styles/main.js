@@ -30,9 +30,6 @@ var NDLoader = new function() {
     this.OnLoad_All = function() {};
     this.OnLoad_Frame = function() {
         NDFramePage.Start();
-        NDThemes.SetAvailableThemes([
-            ["Dark Theme", "Dark"],
-        ]);
     };
     this.OnLoad_Content = function() {
         NDContentPage.Start();
