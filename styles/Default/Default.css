@@ -190,7 +190,7 @@ td {
     border-radius: 50%;
     box-sizing: border-box;
     background: url("images/theme-switcher.svg") center center no-repeat;
-    display: none;
+    display: none!important;
 }
 
 .DarkTheme #NDThemeSwitcher {
